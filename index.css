@@ -59,11 +59,6 @@ html{
     border-radius: 9px;
 }
 
-.background{
-    background: rgba(0, 0, 0, 0.7) url('../Images/bg.png');
-    background-size: cover;
-    background-blend-mode: darken;
-}
 .firstSection{
     height: 100vh;
 
